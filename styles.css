@@ -471,6 +471,10 @@ a{
     .hero-section{
       flex-wrap: wrap;
       
+      
+    }
+    .hero-section-right{
+      justify-content: center;
     }
     .page-header {
       padding-top: 30px;
