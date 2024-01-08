@@ -468,6 +468,10 @@ a{
   }
 
   @media (max-width:1300px) {
+    .hero-section{
+      flex-wrap: wrap;
+      
+    }
     .page-header {
       padding-top: 30px;
       color: var(--bgOrange);
